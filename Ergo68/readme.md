@@ -154,8 +154,8 @@ It is OK if it looks like the image below.
 
 Attach the reset switch and TRRS jack to the **back** of the board, opposite the ProMicro, where it says `Reset` and `TRRS`, and solder from the **front**.
 
-Left side! [ResetTRRS-Left] (imgs/ResetTRRS-Left.JPG)
-Right side! [ResetTRRS-Right] (imgs/ResetTRRS-Right.JPG)
+Left side! [ResetTRRS-Left](imgs/ResetTRRS-Left.JPG)
+Right side! [ResetTRRS-Right](imgs/ResetTRRS-Right.JPG)
 
 After soldering, you can cut it off with pliers and heat it again with a soldering iron to use it without scratching the desk.
 
